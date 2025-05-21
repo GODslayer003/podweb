@@ -46,5 +46,3 @@ A fully customizable Print-On-Demand (POD) T-shirt store built using **Lit Web C
 | Focus  | One-shirt hero-style presentation   |
 
 ---
-
-## 📂 Project Structure
